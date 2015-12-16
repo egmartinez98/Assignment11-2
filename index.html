@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Assiment11-2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script src="js/home.js"></script>
+    <script src="js/details.js"></script>
+</head>
+
+<body>
+
+    <!--This is home page-->
+    <div data-role="page" id="home">
+        <header data-role="header">
+            <h1>Directory</h1>
+        </header>
+
+        <form class="ui-filterable">
+            <input type="search" id="search" name="search" value="" placeholder="Search..." />
+        </form>
+        <section data-role="content" id="welcome">
+            <h3>Welcome to Directory!</h3>
+            <p>This is a sample app that demonstrates how to build applications with jQuery Mobile.</p>
+        </section>
+
+        <ul data-role="listview" data-filter="true" data-input="#search" id="list">
+
+        </ul>
+
+    </div>
+    <!--This ends home page-->
+
+
+
+
+    <!--this is employ detail page-->
+    <div data-role="page" id="employdetail">
+        <header data-role="header">
+            <a href="#" data-rel="back" data-icon="back">Back</a>
+            <h1>Employee Details</h1>
+            <a href="#home" data-role="button" data-icon="search">Search</a>
+        </header>
+        <section data-role="content">
+            <div id="data">
+
+            </div>
+
+            <ul data-role="listview" data-inset="true" id="data_list">
+
+            </ul>
+        </section>
+
+    </div>
+    <!--this ends emplee deatil page-->
+
+
+
+</body>
+
+</html>

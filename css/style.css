@@ -1,0 +1,13 @@
+#list img {
+    max-width: 88px;
+    max-height: 88px;
+}
+
+div #data {
+    margin-bottom: 100px;
+}
+
+span {
+    font-size: 0.8em;
+    color: grey;
+}

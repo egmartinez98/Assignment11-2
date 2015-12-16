@@ -1,0 +1,124 @@
+{
+    "workers": [
+        {
+            "name": "Amy Jones",
+            "title": "Sales Rep",
+            "cellNum": "209-619-2041",
+            "officeNum": "208-303-3131",
+            "email": "Ajones77@gmail.com",
+            "img": "images/amy_jones.jpg",
+            "id": "1",
+            "ReportTo": 3
+    },
+        {
+            "name": "Paul Jones",
+            "title": "QA Manager",
+            "cellNum": "209-180-9111",
+            "officeNum": "204-313-3131",
+            "email": "pJones72@gmail.com",
+            "img": "images/paul_jones.jpg",
+            "id": "2",
+            "ReportTo": 3
+    },
+        {
+            "name": "James King",
+            "title": "Presedent and CEO",
+            "cellNum": "777-121-1800",
+            "officeNum": "204-313-3131",
+            "email": "Jking08@gmail.com",
+            "img": "images/james_king.jpg",
+            "id": "3",
+            "ReportTo": "Self"
+    },
+        {
+            "name": "Julie Taylor",
+            "title": "VP of Marketing",
+            "cellNum": "111-222-3333",
+            "officeNum": "222-333-4444",
+            "email": "JT33@gmail.com",
+            "img": "images/julie_taylor.jpg",
+            "id": "4",
+            "ReportTo": 3
+    },
+        {
+            "name": "John Williams",
+            "title": "VP of Engineering",
+            "cellNum": "555-666-7777",
+            "officeNum": "8888-999-1010",
+            "email": "JW88@gmail.com",
+            "img": "images/john_williams.jpg",
+            "id": "5",
+            "ReportTo": 3
+    },
+        {
+            "name": "Paula Gates",
+            "title": "Software Architech",
+            "cellNum": "808-469-0975",
+            "officeNum": "256-953-0427",
+            "email": "PGates09@gmail.com",
+            "img": "images/paula_gates.jpg",
+            "id": "6",
+            "ReportTo": 5
+    },
+        {
+            "name": "Steven Wells",
+            "title": "Software Architech",
+            "cellNum": "123-456-7891",
+            "officeNum": "109-876-5432",
+            "email": "steveW78@gmail.com",
+            "img": "images/steven_wells.jpg",
+            "id": "7",
+            "ReportTo": 3
+    },
+        {
+            "name": "Eugene Lee",
+            "title": "UX Manager",
+            "cellNum": "737-832-9451",
+            "officeNum": "262-784-3578",
+            "email": "EugeneL44@gmail.com",
+            "img": "images/eugene_lee.jpg",
+            "id": "8",
+            "ReportTo": 6
+    },
+        {
+            "name": "Gary Donovan",
+            "title": "UI Manager",
+            "cellNum": "264-621-8463",
+            "officeNum": "653-467-8464",
+            "email": "gDonovan76@gmail.com",
+            "img": "images/gary_donovan.jpg",
+            "id": "9",
+            "ReportTo": 6
+    },
+        {
+            "name": "Kathleen Byrne",
+            "title": "Audio Manager",
+            "cellNum": "634-523-8643",
+            "officeNum": "999-647-8989",
+            "email": "KatB:)@gmail.com",
+            "img": "images/kathleen_byrne.jpg",
+            "id": "10",
+            "ReportTo": 6
+    },
+        {
+            "name": "Lisa Wong",
+            "title": "Photagrapher",
+            "cellNum": "209-999-0000",
+            "officeNum": "999-674-1112",
+            "email": "LisaW98@gmail.com",
+            "img": "images/lisa_wong.jpg",
+            "id": "11",
+            "ReportTo": 6
+    },
+        {
+            "name": "Ray Moore",
+            "title": "Lawyer",
+            "cellNum": "333-111-0020",
+            "officeNum": "Rmoore65-565-1512",
+            "email": "RayM99@gmail.com",
+            "img": "images/ray_moore.jpg",
+            "id": "12",
+            "ReportTo": 1
+    }
+]
+}
